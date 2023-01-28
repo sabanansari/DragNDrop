@@ -121,6 +121,10 @@ ul {
 }
 
 /* Drag and Drop */
+.over{
+  padding: 50px 10px;
+}
+
 .drag-item-list {
   min-height: 50px;
 }
